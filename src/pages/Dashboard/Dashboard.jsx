@@ -8,7 +8,7 @@ function Dashboard() {
     <div className="min-h-screen bg-slate-100 p-8">
       <div className="mb-8">
         <h1 className="text-4xl font-bold text-slate-800">
-          Welcome Back 👋
+          Welcome Back ritesh don👋
         </h1>
 
         <p className="text-gray-500 mt-2">
